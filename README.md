@@ -68,7 +68,7 @@ For pet-related businesses (retailers, marketers, product developers), the insig
 📁 data/
     └── pet_ownership_with_regions.xlsx
 📁 visualizations/
-    └── screenshots
+    └── screenshots and Tableau workbook
 📁 storytelling/
     └── storyboard_notes.md
 README.md
